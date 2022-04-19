@@ -12,16 +12,16 @@ Os dados foram disponibilizados para o autor pela Subsecretaria da Receita da Se
 
 A base é composta principalmente por um arquivo CSV [BaseDESC_NCM.csv] com 1.117.623 registros rotulados de descrições de marcadorias.
 Os campos apresentados são o seguinte:
-XPROD - Descrição da mercadoria na NFe
-NCM - Código NCM inserido na NFe
-rotulo - especificação da mercadoria identificada por especialistas conforme a Nomenclatura Comum do Mercosul (NCM)
-Item - código do rótulo feito por especialistas
+XPROD - Descrição da mercadoria na NFe;
+NCM - Código NCM inserido na NFe;
+rotulo - especificação da mercadoria identificada por especialistas conforme a Nomenclatura Comum do Mercosul (NCM);
+Item - código do rótulo feito por especialistas.
 
 Tabela dos códigos dos rótulos:
-30 - Cachaça e aguardentes
-31 - Vinhos de uvas frescas, vermutes, sidras, outras bebidas fermentadas
-38 - Produtos de perfumaria e de higiene pessoal e cosméticos
-39 - Materiais de limpeza
-40 - Produtos alimentícios
-41 - Materiais de construção e congêneres
-42 - Material Elétrico
+30 - Cachaça e aguardentes;
+31 - Vinhos de uvas frescas, vermutes, sidras, outras bebidas fermentadas;
+38 - Produtos de perfumaria e de higiene pessoal e cosméticos;
+39 - Materiais de limpeza;
+40 - Produtos alimentícios;
+41 - Materiais de construção e congêneres;
+42 - Material Elétrico.
