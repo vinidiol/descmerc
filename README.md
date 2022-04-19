@@ -14,7 +14,7 @@ A base é composta principalmente por um arquivo CSV [BaseDESC_NCM.csv] com 1.11
 Os campos apresentados são o seguinte:
 XPROD - Descrição da mercadoria na NFe
 NCM - Código NCM inserido na NFe
-rotulo - especificação da mercadoria identificada por especialistas
+rotulo - especificação da mercadoria identificada por especialistas conforme a Nomenclatura Comum do Mercosul (NCM)
 Item - código do rótulo feito por especialistas
 
 Tabela dos códigos dos rótulos:
