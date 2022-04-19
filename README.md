@@ -10,7 +10,7 @@ Os códigos NCM são de domínio público e amplamente disponíveis. Haverão me
 
 Os dados foram disponibilizados para o autor pela Subsecretaria da Receita da Secretaria de Estado de Economia do Distrito Federal em uma planilha no formato .xls respeitando as premissas indicadas acima sobre o sigilo fiscal. Todas as referências a valores, unidades e quantidades foram retiradas.
 
-A base é composta principalmente por um arquivo CSV com 1.117.623 registros rotulados de descrições de marcadorias.
+A base é composta principalmente por um arquivo CSV [BaseDESC_NCM.csv] com 1.117.623 registros rotulados de descrições de marcadorias.
 Os campos apresentados são o seguinte:
 XPROD - Descrição da mercadoria na NFe
 NCM - Código NCM inserido na NFe
