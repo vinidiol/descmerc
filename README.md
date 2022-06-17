@@ -1,27 +1,27 @@
-# DESCMERC: Descrições de Mercadorias
-Esta é uma base dados formada por de textos curtos rotulados compostos por descrições de mercadorias extraídas de notas fiscais eletrônicas.
-A classificação das descrições foi feita por auditores fiscais especialistas, é apresentada de acordo com a Nomenclatura Comum do Mercosul.
+# DESCMERC: Description of Merchandises
+This is a database made up of short labeled texts composed of descriptions of goods extracted from electronic invoices.
+The descriptions were classified by specialist tax auditors and are presented following the Mercosur Common Nomenclature.
 
-Proteção dos dados e Sigilo Fiscal
+Data Protection and Tax Secrecy
 
-Os dados expostos não ferem o sigilo fiscal de empresas emitentes e/ou destinatárias das notas, pois mostram apenas a descrição das mercadorias elencadas nas notas fiscais eletrônicas, como podem ser verificadas por qualquer consumidor ao adquirir um produto, bem como não apresentam nenhuma referência financeira econômica que possa demonstrar valores de preços ou margens de lucro. 
+The data exposed does not violate the tax secrecy of companies issuing and/or receiving the invoices, as they only show the description of the goods listed in the electronic invoices, as can be verified by any consumer when purchasing a product, as well as no financial reference. that can demonstrate pricing values or profit margins.
 
-Os códigos NCM são de domínio público e amplamente disponíveis. Haverão menções de marcas de produtos nas descrições, mas pelos motivos expostos acima esta indicação permanece assegurando o sigilo fiscal das marcas.
+The NCM codes are in the public domain and widely available. There will be mentions of product brands in the descriptions, but for the reasons explained above, this indication remains to assure the tax secrecy of the brands.
 
-Os dados foram disponibilizados para o autor pela Subsecretaria da Receita da Secretaria de Estado de Economia do Distrito Federal em uma planilha no formato .xls respeitando as premissas indicadas acima sobre o sigilo fiscal. Todas as referências a valores, unidades e quantidades foram retiradas.
+The Subsecretariat of Revenue of the State Department of Economy of the Federal District provided the data to the author in a spreadsheet in .xls format, respecting the premises indicated above regarding tax secrecy. All references to values, units, and quantities have been removed.
 
-A base é composta principalmente por um arquivo CSV [BaseDESC_NCM.csv] com 1.117.623 registros rotulados de descrições de marcadorias.
-Os campos apresentados são o seguinte:
-XPROD - Descrição da mercadoria na NFe;
-NCM - Código NCM inserido na NFe;
-rotulo - especificação da mercadoria identificada por especialistas conforme a Nomenclatura Comum do Mercosul (NCM);
-Item - código do rótulo feito por especialistas.
+The database is mainly composed of a CSV file [BaseDESC_NCM.csv] with 1,117,623 labeled records of labeled descriptions.
+The fields displayed are as follows:
+XPROD - Description of the goods in the NFe;
+NCM - NCM code inserted in the NFe;
+rotulo - specification of the goods identified by specialists according to the Common Mercosur Nomenclature (NCM);
+Item - label code made by experts.
 
-Tabela dos códigos dos rótulos:
-30 - Cachaça e aguardentes;
-31 - Vinhos de uvas frescas, vermutes, sidras, outras bebidas fermentadas;
-38 - Produtos de perfumaria e de higiene pessoal e cosméticos;
-39 - Materiais de limpeza;
-40 - Produtos alimentícios;
-41 - Materiais de construção e congêneres;
-42 - Material Elétrico.
+Label code table:
+30 - Cachaça and spirits;
+31 - Wines made from fresh grapes, vermouths, ciders, and other fermented beverages;
+38 - Perfumery and personal care and cosmetics;
+39 - Cleaning materials;
+40 - Food products;
+41 - Building materials and the like;
+42 - Electrical Material.
